@@ -1,0 +1,3 @@
+﻿  sortowanie.cpp
+c:\users\mateuszchodyna\desktop\asd\sortowanie\sortowanie\sortowanie.cpp(98): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  sortowanie.vcxproj -> C:\Users\MateuszChodyna\Desktop\ASD\sortowanie\Debug\sortowanie.exe

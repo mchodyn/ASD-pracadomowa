@@ -1,0 +1,4 @@
+Najlepiej ze wszystkich algorytmów poradzi³ sobie HeapSort, osi¹gaj¹c najkrótsze czasy sortowañ przy ka¿dym typie tablic.
+Nastepn¹ pozycje uplasowa³ sobie QuickSort osi¹gaj¹c wyniki doœæ zbli¿one do HeapSorta (lecz zawsze gorsze) w przypadku tablic losowych, niestety algoprytm ten mocno zwalnial w przypadku tablic juz posortowanych lub odwrtnie posortowanych.
+Najgorzej wypad³ BubbleSort osi¹gaj¹c du¿o gorsze czasy w przypadku tablic losowych i nawet zbli¿one w przypadku tablic posortowanych.
+Wynika z tego ¿e najlepszym z tych trzech algorytmów pod wzglêdem czasowym jest HeapSort.
